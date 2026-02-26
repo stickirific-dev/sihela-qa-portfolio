@@ -4,7 +4,7 @@ Aspiring QA Tester | Manual & Automation Testing | Seeking Internship
 
 ## About Me
 - Self-taught QA fundamentals (SDLC, STLC, test design)
-- Completed [list courses/certifications, e.g., Udemy Software Testing Bootcamp]
+- Completed "Understanding Manual Testing" Linkedin Learning course
 - Passionate about finding bugs and improving software quality
 
 ## Skills
